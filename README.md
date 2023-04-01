@@ -6,7 +6,9 @@
 
 💼 Currently employed @ FAA.
 <br />
-👨🏻‍💻 Working on a GameBoy emulator and Arduino on my spare time.
+👨🏻‍💻 Writing a GameBoy emulator and learning Arduino on my spare time.
+
+Running WSL for software development.
 
 Main languages:
 
