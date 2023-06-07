@@ -8,7 +8,7 @@
 <br />
 👨🏻‍💻 Writing a GameBoy emulator and learning Arduino on my spare time.
 
-Running WSL for software development.
+Running EndeavourOS on my personal machine.
 
 Main languages:
 
